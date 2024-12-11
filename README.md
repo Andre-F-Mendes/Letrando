@@ -7,4 +7,5 @@ EJS
 NodeJS  
 MongoDB  
 CSS  
+I.A. do Gemini  
 E as dependências necessárias para o uso dessas tecnologiass.
